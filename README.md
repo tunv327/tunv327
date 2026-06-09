@@ -31,7 +31,7 @@
 <div align="center">
 
 ## 🌐 Connect with Me 🍬
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/name) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tu.nguyenvinh.752) 
 </div>
 
 
